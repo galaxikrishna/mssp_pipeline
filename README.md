@@ -1,2 +1,2 @@
 # mssp_pipeline
-data reduction codes for Fe 6302 line
+GUI for mssp and data reduction codes for Fe 6302 line
